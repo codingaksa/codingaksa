@@ -1,5 +1,5 @@
-### Hi there 👋, A.Furkan AKSA
-#### Full Stack Developer
+<p align="center"> Hi there 👋, A.Furkan AKSA</p>
+<p align="center">Full Stack Developer</p>
  <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=codingaksa&&style=plastics&&color=blueviolet" align="right"/> </p>
