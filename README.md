@@ -7,7 +7,7 @@
 <p align="center"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dcL4QoY64t9rOsLQpNYwJg.gif"/></p>
 
 
-I am a 26-year-old young Full Stack developer who enjoys solving problems and constantly gaining knowledge.
+I am a 27-year-old young Full Stack developer who enjoys solving problems and constantly gaining knowledge.
 
 Skills: Node JS / REACT / JS / HTML / CSS
 
