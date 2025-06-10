@@ -12,7 +12,7 @@ I am a 27-year-old young Full Stack developer who enjoys solving problems and co
 Skills: Node JS / REACT / JS / HTML / CSS
 
 - 💬 Ask me about HTML, CSS, REACT, JS, Node JS 
-- 📫 How to reach me: coding.aksa@hotmail.com 
+- 📫 How to reach me: alperfurkanaksa@gmail.com
 
 
 ## 🌐 Socials:
